@@ -1,0 +1,1 @@
+{"name":"expertcustos-static-root","private":true,"version":"1.0.0","scripts":{"build":"rm -rf dist && mkdir -p dist && cp -r src/out/. dist/"}}
